@@ -1,4 +1,4 @@
-### Art + Blockchain = Future
+# Art + Blockchain = Future
 Together with the community, I explore the common ground between art and blockchain. And then we put it into practice.
 ## Blockchain makes the art market safer
 Upon creation, ownership and trade history can be tracked on a publically verifiable ledger (blockchain). This helps combat issues like plagiarism and can be used to verify copyright of images.
