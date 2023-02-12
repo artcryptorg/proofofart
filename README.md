@@ -1,6 +1,6 @@
                                      https://artcryp.org
                                      
- ## Artcryptorg activity:
+ ## Artcryptorg validator activity:
  
 ### Active Cosmos Mainnets: <br />
 - [Bitcanna](https://wallet.bitcanna.io/validators/bcnavaloper1cyup3p032ryt58rw9t4fy9yy9qpm3yr22nf0pm)
