@@ -42,4 +42,5 @@ Exhibitions in the metaverse, the rejection of the expansion of galleries and th
 The programme is designed to catalyse cooperation between disciplines and sectors, enabling participants to interrogate the benefits and pitfalls of blockchain developments for arts, culture and wider society.
 ## New art forms
 the emergence of such new forms of art as programmable art. This attracts more new people and connects the technical and humanitarian side of knowledge in the blockchain.
+
 Сrypto, blockchain and web3 technologies make it possible to change the art market – to make it independent, decentralized and free.
