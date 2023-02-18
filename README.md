@@ -1,4 +1,4 @@
-                                     https://artcrypt.org
+                                                https://artcrypt.org
                                      
  ## Artcryptorg validator activity:
  
